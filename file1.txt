@@ -1,0 +1,4 @@
+line1 master
+line2 branch4
+line3 branch4
+line 4 master
